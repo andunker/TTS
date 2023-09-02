@@ -22,7 +22,7 @@ data = {
     },
     "voice": {
         "languageCode": "es-US",  # en-US
-        "name": "es-US-Standard-A",  # en-US
+        "name": "es-US-Studio-B",  # en-US
     },
     "audioConfig": {
         "audioEncoding": "MP3",

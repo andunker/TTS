@@ -1,5 +1,9 @@
 /myenv/
 output.mp3
 output.flac
+BARD_output.mp3
+test.mp3
 .vscode/
 .env
+*.pyc
+/__pycache__/
